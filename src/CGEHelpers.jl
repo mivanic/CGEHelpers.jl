@@ -1,5 +1,7 @@
 module CGEHelpers
 
-# Write your package code here.
+export ces, cde
+include("cde.jl")
+include("ces.jl")
 
 end

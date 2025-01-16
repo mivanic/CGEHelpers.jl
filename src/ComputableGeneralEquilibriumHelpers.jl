@@ -1,4 +1,4 @@
-module CGEHelpers
+module ComputableGeneralEquilibriumHelpers
 
 export ces, cde
 include("cde.jl")

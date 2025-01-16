@@ -1,6 +1,6 @@
-using CGEHelpers
+using ComputableGeneralEquilibriumHelpers
 using Test
 
-@testset "CGEHelpers.jl" begin
+@testset "ComputableGeneralEquilibriumHelpers.jl" begin
     # Write your tests here.
 end

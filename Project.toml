@@ -1,7 +1,7 @@
 name = "CGEHelpers"
 uuid = "b2f8801f-5e08-46db-8da3-bbbe1795f4c5"
 authors = ["Maros Ivanic"]
-version = "1.0.0-DEV"
+version = "1.0.0"
 
 [compat]
 julia = "1.6.7"
